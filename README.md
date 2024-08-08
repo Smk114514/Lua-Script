@@ -1,2 +1,2 @@
 # Lua-Script
-Them is my lua script.
+Smk制作FDP脚本
