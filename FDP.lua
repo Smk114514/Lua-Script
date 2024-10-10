@@ -1,5 +1,5 @@
 --此脚本由Smk开源发布，官方群聊638904774
-local OrionLib = loadstring(game:HttpGet(("https://raw.githubusercontent.com/shlexware/Orion/main/source")))()
+local OrionLib = loadstring(game:HttpGet(("https://raw.githubusercontent.com/Zephyr688/Lua-Script/refs/heads/main/Orion.lua")))()
 
 OrionLib:MakeNotification({
 	Name = "脚本加载完毕！：",
